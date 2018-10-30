@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://hoverboard-master.firebaseapp.com/",
+  "analytics": "UA-43643469-9",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyDpqHKsx1qFPEaMqH2NORjaI9V8WlQMqig",
+    "authDomain": "mywedding-e999d.firebaseapp.com",
+    "databaseURL": "https://mywedding-e999d.firebaseio.com",
+    "projectId": "mywedding-e999d",
+    "storageBucket": "mywedding-e999d.appspot.com",
+    "messagingSenderId": "906835736106"
+  },
+  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+}
